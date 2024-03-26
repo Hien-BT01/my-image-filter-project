@@ -1,0 +1,1 @@
+My EB deployment: http://my-image-filter-project-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://png.pngtree.com/thumb_back/fh260/background/20230511/pngtree-nature-background-sunset-wallpaer-with-beautiful-flower-farms-image_2592160.jpg
